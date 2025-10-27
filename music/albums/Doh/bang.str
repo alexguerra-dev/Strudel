@@ -1,0 +1,16 @@
+// @title Bang
+// @by Alex
+// @license MIT
+// @details Learning to use strudel
+// @url https://doh.lovelyvector.com/
+// @genre learning, test, electronic, strudel
+// @album Doh
+
+test: sound("casio")._scope()
+
+drums: sound("<bd hh>*4")
+
+guitar: note("48 67 63 [62, 58]").sound("piano gm_electric_guitar_muted")
+/// anotherGuitar: note("48 48 48 67 43").sound("sawtooth")
+anotherGuitar: note("48 48 48 67  67 67 62 58, <48 48 58 48, [48 67]>").transpose(-7).sound("sawtooth")._scope()
+// The neovim integration with the plugin is pretty cool.

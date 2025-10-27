@@ -1,0 +1,14 @@
+// @title Welcome To The Pre-Show
+// @by Alex
+// @album Doh
+
+// note("eb ab c d g 63 65").sound("sawtooth")
+// note("eb ab c d g").sound("sawtooth")
+// note("eb ab c d g").transpose(-19).sound("sawtooth")
+drums: sound("[bd sd]*2, hh*4")._scope()
+guitar: note("< eb c d g>*2, eb eb d c").sound("gm_electric_guitar_muted")
+bass: note("[36 34 41 39]/4").sound("gm_acoustic_bass")
+cafe: note("c a f <e g>, c <a f>@2 e").scale("C:minor").sound("piano")
+piano: n("6 4 2 0").scale("C:minor").sound("piano")
+
+w/saws: note("c d ab g").sound("sawtooth")._scope()

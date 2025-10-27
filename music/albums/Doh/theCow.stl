@@ -1,0 +1,10 @@
+// @title The Cow
+// @by Alex
+// @album Doh
+// @genre test
+
+// This always seems to be here
+// tick: sound("casio")
+// drums: sound("bd sd")
+drums: sound("<bd <sd sd hh sd >>")
+

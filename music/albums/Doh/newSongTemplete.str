@@ -1,0 +1,6 @@
+// @title the-title-of-the-song
+// @by Alex
+// @album the-name-of-the-album
+// @genre test
+
+sound("casio")

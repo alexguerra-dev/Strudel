@@ -1,0 +1,9 @@
+// @title Sloppy
+// @by Alex
+// @licence MIT
+// @album Doh
+
+// sound("casio")
+drums: sound("<bd sd>*4, <hh hh _ hh>*8,< hh _ hh>*4")
+
+oddSounds: note("a c d a, a  d a c").sound("sawtooth")

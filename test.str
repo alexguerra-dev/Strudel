@@ -1,0 +1,22 @@
+// @title Hello, Neovim
+// @by Alex
+
+note("a a b c").sound("casio").pianoroll()
+
+
+// I am going to be making a neovim config for live coding.
+// I got some of the keybindings working.
+
+// It would be nice to get some syntax hilighting going.
+// I got it sort of to work... I guess, it might **actually** work.
+// And when I jump down from the previous line it will auto add the `//`
+// to make it a comment
+
+// `:setfiletype javascript`
+
+// - [ ] Figure out how to associate `.str` file type with Javascript.
+//
+
+
+
+
