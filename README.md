@@ -1,6 +1,9 @@
 
 # Strudel
 
+Here is some documentation.
+
+[My Strudel Documentation](doc/strudel.md)
 ## Things That I Think Sound Good
 
 [Test](doc/test.md)
@@ -19,7 +22,7 @@ I think this basically means that I want to work in my own ide. I want to have s
 
 My configuration.
 
-- Question: How do I copy a line?
+- Question: How do I copy a line? (you can use `yy`, that is pressing the  letter `y` twice. That will put it on your paste board)
 - Question: How do I make a snippet?
 - [ ] Document how to use windows and such.
 - [ ] How to automatically asign the type of a file?
